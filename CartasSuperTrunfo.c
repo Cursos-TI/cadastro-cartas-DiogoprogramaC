@@ -74,7 +74,7 @@ scanf("%s", Cidade_Carta2);
 printf("Digite a Populacao:");
 scanf("%d", &Populacao_Carta2);
 
-printf("Digite a Area KM²:");
+printf("Digite a Area KM²: ");
 scanf("%f", &Area_Carta2);
 
 printf("Digite o Pib:");
